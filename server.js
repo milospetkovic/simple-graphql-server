@@ -30,6 +30,7 @@ const books = [
   { id: 9, name: 'Learn to say No', authorId: 3 },
   { id: 10, name: 'Gone with a storm', authorId: 3 },
   { id: 11, name: 'Na Drini cuprija', authorId: 4 },
+  { id: 12, name: 'Prokleta avlija', authorId: 4 },
 ]
 
 const BookType = new GraphQLObjectType({
