@@ -15,6 +15,7 @@ const authors = [
 	{ id: 2, name: 'Dale Carnegie' },
 	{ id: 3, name: 'Ernest Hemingway' },
   { id: 4, name: 'Ivo Andric' },
+  { id: 5, name: 'Jovan Jovanovic Zmaj' },
 ]
 
 const books = [
