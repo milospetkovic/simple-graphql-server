@@ -25,7 +25,8 @@ const books = [
 	{ id: 6, name: 'How to Stop Worrying and Start Living', authorId: 2 },
 	{ id: 7, name: 'A Farewell to Arms', authorId: 3 },
 	{ id: 8, name: 'Winner Take Nothing', authorId: 3 },
-  { id: 8, name: 'Learn to say No', authorId: 3 },
+  { id: 9, name: 'Learn to say No', authorId: 3 },
+  { id: 10, name: 'Gone with a storm', authorId: 3 },
 ]
 
 const BookType = new GraphQLObjectType({
