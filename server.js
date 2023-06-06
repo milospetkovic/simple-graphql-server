@@ -13,7 +13,8 @@ const app = express()
 const authors = [
 	{ id: 1, name: 'Paulo Coelho' },
 	{ id: 2, name: 'Dale Carnegie' },
-	{ id: 3, name: 'Ernest Hemingway' }
+	{ id: 3, name: 'Ernest Hemingway' },
+  { id: 4, name: 'Ivo Andric' },
 ]
 
 const books = [
