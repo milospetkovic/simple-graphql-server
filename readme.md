@@ -15,7 +15,6 @@ An express server should be started and listening on the port 5000.
 
 Open the URL: [http://localhost:5000/graphql](http://localhost:5000/graphql)
 
-
 **Use the following APIs in your browser to fetch or insert a new item.**
 
 ### List authors with their books.
